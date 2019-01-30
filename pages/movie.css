@@ -1,0 +1,38 @@
+.frontwrap {
+  margin:5px 32px 45px 32px;
+}
+.front {
+  width: 100%;
+  background-color: #f0f0f0;
+  color: #666;
+  text-align: center;
+  padding: 6px 0px;
+  border-radius: 5px;
+}
+.seats {
+  overflow: hidden;
+}
+
+
+
+.line {
+  overflow: hidden;
+  display: block;
+  width: 510px;
+  margin: 0 auto;
+}
+
+.seat {
+  margin:2px;
+  float:left;
+  width:30px;
+  height:30px;
+  border-radius:
+  3px;
+  text-align:center;
+  line-height:30px;
+}
+
+.enable {background: #bbb;}
+.enable:hover{background: #97b75d;}
+.disable {background: #ff7575;}

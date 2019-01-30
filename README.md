@@ -1,6 +1,6 @@
 # Next Booking seats in real time
 
-> Nuxt.js project
+> Next.js project
 
 ## Build Setup
 
@@ -14,4 +14,16 @@ $ yarn run dev
 # build for production and launch server
 $ yarn run build
 $ yarn start
+```
 
+## Author
+
+**QuackQuackQuack**
+
++ [github/QuackQuackQuack](https://github.com/QuackQuackQuack)
+
+## License
+Copyright (c) 2019 QuackQuackQuack
+Released under the MIT license
+
+***
